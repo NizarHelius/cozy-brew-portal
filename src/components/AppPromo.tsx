@@ -66,7 +66,7 @@ const AppPromo = () => {
           <div className="relative">
             <div className="relative z-10 mx-auto max-w-xs animate-float">
               <img 
-                src="https://cdn.dribbble.com/users/1998175/screenshots/15459384/media/e2c0ad8458a32a3ff55b2b0a9f2c6871.png?compress=1&resize=1200x900&vertical=top" 
+                src="https://images.unsplash.com/photo-1662474182770-4d28108ad4b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=776&q=80" 
                 alt="Cozy Brew App" 
                 className="w-full h-auto rounded-[2.5rem] shadow-2xl"
               />
