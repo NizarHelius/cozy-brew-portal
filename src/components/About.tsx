@@ -11,7 +11,7 @@ const About = () => {
     {
       icon: <Users className="h-8 w-8 text-cafe-gold" />,
       title: 'Community Space',
-      description: 'More than a café, we're a gathering place for friends, colleagues, and neighbors.'
+      description: "More than a café, we're a gathering place for friends, colleagues, and neighbors."
     },
     {
       icon: <Heart className="h-8 w-8 text-cafe-gold" />,
